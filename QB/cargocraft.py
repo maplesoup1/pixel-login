@@ -1,4 +1,4 @@
-# Problem B: CargoCraft Fleet
+# Question B: CargoCraft Fleet
 # Type A: 4 units, Type B: 6 units
 # Min crafts: use more Type B, Max crafts: use more Type A
 
